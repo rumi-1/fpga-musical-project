@@ -1,7 +1,8 @@
 **FPGA Musical Keyboard Implementation**
 **Course Project Report**
 **Due: December 5, 2025**
-
+ECEN2350 - Digital Logic
+Contributors: Zayd Yusufi, Neil Shrestha, Sami Sader
 ---
 
 ### Overview
